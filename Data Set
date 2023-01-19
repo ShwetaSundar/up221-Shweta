@@ -1,0 +1,17 @@
+### Dataset 1
+****Name:** TCAC Opportunity Map for Los Angeles**
+**Description:**  The TCAC map is an opportunity mapping tool developed by the State Tax Credit Allocation Committee (TCAC) and the Housing and Community Investment Development (HCID) to direct investment in certain locations based on their opportunity. The map identifies locations with high opportunity as High or Highest Resource, and areas with high poverty levels and segregation as High Segregation and Poverty based on economic, education and environmental indicators. I aim to use this map as a base layer of my spatial analysis, to understand the characteristics of high opportunity (Highest and High Resource) CPAs to support housing. 
+**Source URL:** https://www.treasurer.ca.gov/ctcac/opportunity.asp
+**Repo URL:**  https://github.com/ShwetaSundar/up221-Shweta/tree/main/TCAC_final_2022_shapefile
+
+### Dataset 2
+****Name:** Hot markets in Los Angeles**
+**Description:** The dataset maps development activity across LA along with its impact on migration of high and low income families. Overlaying this map on the high opportunity CPAs will potentially inform recommendations on which CPAs to focus for housing production
+**Source:** Part of a study in progress by Karen Chapple for the Anti-Displacement Report for LACP and KDI
+**Repo URL:** https://github.com/ShwetaSundar/up221-Shweta/tree/main/Hot%20markets%20LA
+
+### Dataset 3
+****Name:** Grocery store access**
+**Description:** This map illustrates the spatial distribution of grocery stores. Overlaying this map on the high opportunity CPAs will potentially inform recommendations on which CPAs to focus for housing production
+**Source URL**: https://la.myneighborhooddata.org/2021/06/grocery-store-access/
+**Repo URL**: https://github.com/ShwetaSundar/up221-Shweta/blob/main/All%20Years%20Grocery%20Store%20Access%20Calculations.csv
